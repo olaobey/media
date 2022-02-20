@@ -83,7 +83,6 @@
   top: -7%;
   left: -7%;
   border-radius: 50%;
-  backdrop-filter: blur;
 }
 .glass__bottom {
   position: absolute;
@@ -95,5 +94,4 @@
   bottom: -7%;
   right: -7%;
   z-index: -1;
-  backdrop-filter: blur;
 }
